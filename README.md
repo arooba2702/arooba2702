@@ -1,8 +1,8 @@
 Hi, I'm Arooba Waseem 👋
 
-Data Analyst | SQL & Python (Pandas) | Power BI | IBM Data Analyst Certified | Turning raw data into business insights
+**Data Analyst | SQL & Python (Pandas) | Power BI | IBM Data Analyst Certified | Turning raw data into business insights**
 
-About Me
+**About Me**
 
 I'm a BSIT graduate (2025) and IBM Data Analyst Professional Certificate holder based in Lahore, Pakistan, focused on data analysis and SQL-driven reporting. My background combines formal coursework with hands-on project and freelance experience — designing relational databases, writing SQL for business reporting, and using Python (Pandas) and Power BI to turn raw datasets into insights.
 
@@ -10,7 +10,7 @@ I'm currently building out a portfolio of end-to-end data analysis projects, and
 
 Open to Data Analyst, SQL Developer, and Python/Data-focused opportunities.
 
-Technical Skills
+**Technical Skills**
 
 Programming Python, JavaScript, C++, Java
 
@@ -22,7 +22,7 @@ Web HTML, CSS, JavaScript
 
 Tools & Design Figma, Canva, Git/GitHub
 
-Featured Projects
+**Featured Projects**
 
 Portfolio projects are actively in progress — this section will be updated as each one is finished and published. Currently building:
 
@@ -35,6 +35,6 @@ Strengthening SQL through structured practice projects
 Completing a Full Stack Web Development course
 Certifications
 IBM Data Analyst Professional Certificate (Coursera) — Data Analytics, Excel & Data Visualization with Cognos, Python for Data Science, Databases & SQL with Python, Data Analytics & Visualization with Python, Generative AI for Data Analytics, IBM Data Analyst Capstone Project
-Connect With Me
+**Connect With Me**
 💼 LinkedIn: linkedin.com/in/arooba-waseem-69999b337
 📧 Email: arwsaw2277@gmail.com
